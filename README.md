@@ -1,3 +1,3 @@
 # CoffeMannagerproject
- use: java swing, mysql
+java swing, mysql
 Change your photo links, let the program display them
